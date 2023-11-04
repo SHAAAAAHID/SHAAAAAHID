@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @SHAAAAAHID
+- 🐍I'm a python developer 
 - 👀 I’m interested in web development and data science 
 - 🌱 I’m currently learning AI and ML to improve my skills 
 
